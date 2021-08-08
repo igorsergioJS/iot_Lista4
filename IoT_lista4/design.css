@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body 
+{
+    text-align: center;
+    background-color:#99ddff;
+
+}
+
+#result
+{
+    color:red;
+}

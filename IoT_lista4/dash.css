@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body 
+{
+    text-align: center;
+    background-color:#ffffff;
+
+}
+
+#result
+{
+
+    color: red;
+}
+
+.image
+{
+    width: 75px;
+    height: 150px;
+}
+
